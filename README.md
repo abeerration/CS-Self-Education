@@ -1,4 +1,4 @@
 <div align="center">
   <h1>CS Self Education</h1>
-  <img src="banner.jpg" align="center" />
+  <img src="banner.jpg" align="center"/>
 </div>
