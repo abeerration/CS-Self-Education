@@ -14,4 +14,4 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 
 | # | Course | Started | Finished |
 | ----------- | ----------- | ----------- | ----------- |
-| 1. | ... | ... | ... |
+| 1. | Web Design & Development Bootcamp | May 2023 | ... |
