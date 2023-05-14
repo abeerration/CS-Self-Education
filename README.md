@@ -12,6 +12,6 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 
 ## Courses
 
-| # | Course Name | Started | Finished |
+| # | Course | Started | Finished |
 | ----------- | ----------- | ----------- | ----------- |
 | 1. | ... | ... | ... |
