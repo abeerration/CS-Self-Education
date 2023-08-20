@@ -12,4 +12,5 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 
 | # | Course | Status |
 | ----------- | ----------- | ----------- |
-| **1.** | [Web Design & Development Bootcamp](https://github.com/abeerration/Web-Design-Development-Bootcamp) | Ongoing |
+| **1.** | [Coding Tutorial](https://github.com/abeerration/Coding-Tutorial) | Not Started |
+| **2.** | [Web Design & Development Bootcamp](https://github.com/abeerration/Web-Design-Development-Bootcamp) | Not Started |
