@@ -10,7 +10,7 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 
 ## Courses
 
-| # | Course | Status |
-| ----------- | ----------- | ----------- |
-| **1.** | [Coding Tutorial](https://github.com/abeerration/Coding-Tutorial) | Not Started |
-| **2.** | [Web Design & Development Bootcamp](https://github.com/abeerration/Web-Design-Development-Bootcamp) | Not Started |
+| # | Course | Status | Started | Completed |
+| ----------- | ----------- | ----------- | ----------- |
+| **1.** | [Coding Tutorial](https://github.com/abeerration/Coding-Tutorial) | **Ongoing** | 15 September 2023 | |
+| **2.** | [Web Design & Development Bootcamp](https://github.com/abeerration/Web-Design-Development-Bootcamp) | Not Started | |
