@@ -29,7 +29,7 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 
 | # | Course | Status | Started | Completed |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| **6.** | [Object Oriented Programming: C++, Java & Smalltalk]() | Not started | - | - |
+| **6.** | [Object Oriented Programming: Java, Ruby & Smalltalk]() | Not started | - | - |
 | **7.** | [Computing with Lisp]() | Not started | - | - |
 | **8.** | [Business & Technical Writing]() | Not started | - | - |
 | **9.** | [Creative Writing]() | Not started | - | - |
