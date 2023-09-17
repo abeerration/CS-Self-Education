@@ -22,7 +22,7 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | **2.** | [Web Design & Development Bootcamp](https://github.com/abeerration/Web-Design-Development-Bootcamp) | Not started | - | - |
 | **3.** | [Introduction to Computer Science & AI with Python]() | Not started | - | - |
-| **4.** | [Mathematics Tutorial]() | Not started | - | - |
+| **4.** | [Mathematics Foundation Tutorial]() | Not started | - | - |
 | **5.** | [English Composition]() | Not started | - | - |
 
 ### Term 3 -
