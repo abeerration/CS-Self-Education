@@ -25,7 +25,7 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 | **4.** | [Mathematics Foundation Tutorial]() | Not started | - | - |
 | **5.** | [English Composition]() | Not started | - | - |
 
-### Term 3 -
+### Term 3
 
 | # | Course | Status | Started | Completed |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
