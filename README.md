@@ -18,7 +18,6 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 | **3.** | [Computing with Lisp]() | Not started | - | - |
 | | [Mathematics Foundations for CS]() | Not started | - | - |
 | | [Object Oriented Programming: Java and Smalltalk]() | Not started | - | - |
-
 | | [English Composition]() | Not started | - | - |
 | | [Business & Technical Writing]() | Not started | - | - |
 | | [Creative Writing]() | Not started | - | - |
