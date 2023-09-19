@@ -22,25 +22,25 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 
 | # | Course | Started | Completed |
 | ----------- | ----------- | ----------- | ----------- |
-| **2.** | [Web Design & Development Bootcamp](https://github.com/abeerration/Web-Design-Development-Bootcamp) | Not started | - | - |
-| **3.** | Introduction to Computer Science & AI with Python | Not started | - |
-| **4.** | Mathematics Foundation Tutorial | Not started | - |
-| **5.** | English Composition | Not started | - |
+| **2.** | [Web Design & Development Bootcamp](https://github.com/abeerration/Web-Design-Development-Bootcamp) | - | - | - |
+| **3.** | Introduction to Computer Science & AI with Python | - | - |
+| **4.** | Mathematics Foundation Tutorial | - | - |
+| **5.** | English Composition | - | - |
 
 ### Term 3
 
 | # | Course | Started | Completed |
 | ----------- | ----------- | ----------- | ----------- |
-| **6.** | Object Oriented Programming: Java, Ruby & Smalltalk | Not started | - |
-| **7.** | Computing with Lisp | Not started | - |
-| **8.** | Business & Technical Writing | Not started | - |
-| **9.** | Creative Writing | Not started | - |
+| **6.** | Object Oriented Programming: Java, Ruby & Smalltalk | - | - |
+| **7.** | Computing with Lisp | - | - |
+| **8.** | Business & Technical Writing | - | - |
+| **9.** | Creative Writing | - | - |
 
 ### Term 4
 
 | # | Course | Started | Completed |
 | ----------- | ----------- | ----------- | ----------- |
-| **10.** | History of Computation | Not started | - |
-| **11.** | Data Structures & Algorithms | Not started | - |
-| **12.** | Discrete & Computing Mathematics | Not started | - |
-| **13.** | Assembly Language | Not started | - |
+| **10.** | History of Computation | - | - |
+| **11.** | Data Structures & Algorithms | - | - |
+| **12.** | Discrete & Computing Mathematics | - | - |
+| **13.** | Assembly Language | - | - |
