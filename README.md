@@ -42,5 +42,5 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 | ----------- | ----------- | ----------- | ----------- |
 | **10.** | History of Computation | - | - |
 | **11.** | Data Structures & Algorithms | - | - |
-| **12.** | Discrete & Computing Mathematics | - | - |
+| **12.** | Discrete & CS Mathematics | - | - |
 | **13.** | Assembly Language | - | - |
