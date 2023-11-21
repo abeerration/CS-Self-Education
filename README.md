@@ -14,7 +14,7 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 
 | # | Course | Started | Status |
 | ----------- | ----------- | ----------- | ----------- |
-| **1.** | [Coding Tutorial](https://github.com/abeerration/Coding-Tutorial) | Ongoing |
+| **1.** | [Coding Tutorial](https://github.com/abeerration/Coding-Tutorial) | 22 Nov 2023 | Ongoing |
 
 ### Term 1
 #### Dec 2023 - Mar 2024
