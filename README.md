@@ -11,6 +11,7 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 ## Courses
 
 ### Term 0
+#### Late Nov - Dec 2023
 
 | # | Course | Started | Completed |
 | ----------- | ----------- | ----------- | ----------- |
