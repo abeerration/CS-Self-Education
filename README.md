@@ -31,16 +31,16 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 
 | # | Course | Started | Completed |
 | ----------- | ----------- | ----------- | ----------- |
-| ** - ** | Object Oriented Programming: Java, Ruby & Smalltalk | - | - |
-| ** - ** | Computing with Lisp | - | - |
-| ** - ** | Business & Technical Writing | - | - |
-| ** - ** | Creative Writing | - | - |
+| **-** | Object Oriented Programming: Java, Ruby & Smalltalk | - | - |
+| **-** | Computing with Lisp | - | - |
+| **-** | Business & Technical Writing | - | - |
+| **-** | Creative Writing | - | - |
 
 ### Term 3
 
 | # | Course | Started | Completed |
 | ----------- | ----------- | ----------- | ----------- |
-| ** - ** | History of Computation | - | - |
-| ** - ** | Data Structures & Algorithms | - | - |
-| ** - ** | Discrete & CS Mathematics | - | - |
-| ** - ** | Assembly Language | - | - |
+| **-** | History of Computation | - | - |
+| **-** | Data Structures & Algorithms | - | - |
+| **-** | Discrete & CS Mathematics | - | - |
+| **-** | Assembly Language | - | - |
