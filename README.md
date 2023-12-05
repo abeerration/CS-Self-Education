@@ -10,6 +10,8 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 
 ## Courses
 
+Ongoing courses are highlighted in bold.
+
 | # | Course | Started | Completed |
 | ----------- | ----------- | ----------- | ----------- |
 | **0.A.** | Coding Tutorial – Module 1 | 22 Nov 2023 | 29 Nov 2023 |
