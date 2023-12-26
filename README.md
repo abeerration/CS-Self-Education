@@ -8,8 +8,8 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 
 ---
 
-1. Tutorials (more specific and 'hands-on')
-2. Courses (longer/broader with more background and theory)
+**Tutorials** (more specific and 'hands-on')
+**Courses** (longer/broader with more background and theory)
 
 ---
 
