@@ -16,17 +16,14 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 
 ## Tutorials
 
-Ongoing tutorials are highlighted in bold.
-
 | # | Tutorial | Started | Completed |
 | ----------- | ----------- | ----------- | ----------- |
 | 1. | [Coding Tutorial – Module 1] | 22 Nov 2023 | 29 Nov 2023 |
-| 2. | **[VueJSTutorial](https://github.com/abeerration/VueJSTutorial)** | 26 Dec 2023 | Ongoing |
-| 3. | Coding Tutorial – Module 2 | - | - |
+| 2. | [Vue & JS Tutorial](https://github.com/abeerration/VueJSTutorial) | 26 Dec 2023 | **Ongoing** |
+| - | Node & OnsenUI Tutorial | - | - |
+| - | Coding Tutorial – Module 2 | - | - |
 
 ## Courses
-
-Ongoing courses are highlighted in bold.
 
 | # | Course | Started | Completed |
 | ----------- | ----------- | ----------- | ----------- |
