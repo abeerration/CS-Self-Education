@@ -19,9 +19,10 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 | # | Tutorial | Started | Completed |
 | ----------- | ----------- | ----------- | ----------- |
 | 1. | [Coding Tutorial – Module 1](https://github.com/abeerration/Coding-Tutorial-Module-1) | 22 Nov 2023 | 29 Nov 2023 |
-| 2. | Vue & JS Tutorial | - | - |
-| 3. | Node & OnsenUI Tutorial | - | - |
-| 4. | Coding Tutorial – Module 2 | - | - |
+| 2. | [Full Stack Development with TRNM](https://github.com/abeerration/Full-Stack-Development-with-TRNM) | 21 Feb 2023 | **Ongoing** |
+| 3. | Vue & JS Tutorial | - | - |
+| 4. | Node & OnsenUI Tutorial | - | - |
+| 5. | Coding Tutorial – Module 2 | - | - |
 
 ## Courses
 
