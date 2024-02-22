@@ -13,7 +13,6 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 
 ---
 
-
 ## Tutorials
 
 | # | Tutorial | Started | Completed |
