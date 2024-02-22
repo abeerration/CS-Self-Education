@@ -18,20 +18,20 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 | # | Tutorial | Started | Completed |
 | ----------- | ----------- | ----------- | ----------- |
 | 1. | [Coding Tutorial – Module 1](https://github.com/abeerration/Coding-Tutorial-Module-1) | 22 Nov 2023 | 29 Nov 2023 |
-| 2. | [Go Web Development](https://github.com/abeerration/Go-Web-Development) | - | - |
-| 3. | [Full Stack Development with TRNM](https://github.com/abeerration/Full-Stack-Development-with-TRNM) | - | - |
-| 4. | [Microservices with Python, Flask, FastAPI & OpenAPI]() | - | - |
-| - | Vue & JS Tutorial | - | - |
-| - | Node & OnsenUI Tutorial | - | - |
-| - | Coding Tutorial – Module 2 | - | - |
+| - | [Go Web Development]() | - | - |
+| - | [Full Stack Development with TypeScript, React, Next.js, MongoDB]() | - | - |
+| - | [Microservices with Python, Flask, FastAPI & OpenAPI]() | - | - |
+| - | [Vue & JS Tutorial]() | - | - |
+| - | [Node & OnsenUI Tutorial]() | - | - |
+| - | [Coding Tutorial – Module 2]() | - | - |
 
 ## Courses
 
 | # | Course | Started | Completed |
 | ----------- | ----------- | ----------- | ----------- |
 | 1. | [Web Design & Development Bootcamp](https://github.com/abeerration/Web-Design-Development-Bootcamp) | - | - |
-| 2. | Introduction to Computer Science & AI with Python | - | - |
-| 3. | Mathematics Foundations for CS | - | - |
+| 2. | [Introduction to Computer Science & AI with Python](https://github.com/abeerration/Intro-CS-AI-Python) | - | - |
+| 3. | [Mathematics Foundations for CS]() | - | - |
 | 4. | English Composition | - | - |
 | - | Object Oriented Programming: Java, Ruby & Smalltalk | - | - |
 | - | Computing with Lisp | - | - |
