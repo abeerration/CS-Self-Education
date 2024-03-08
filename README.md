@@ -18,9 +18,9 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 | # | Tutorial | Started | Completed |
 | ----------- | ----------- | ----------- | ----------- |
 | 1. | [Coding Tutorial – Module 1](https://github.com/abeerration/Coding-Tutorial-Module-1) | 22 Nov 2023 | 29 Nov 2023 |
-| 2. | [Go Hands On Tutorial](https://github.com/abeerration/Go-Hands-On-Tutorial) | - | **Ongoing** |
+| 2. | [Full Stack Development with TypeScript, React, Next.js, MongoDB](https://github.com/abeerration/Full-Stack-Development-with-TRNM) | 8 Mar 2024 | **Ongoing** |
+| 3. | [Go Hands On Tutorial](https://github.com/abeerration/Go-Hands-On-Tutorial) | - | - |
 | 3. | [Go Web Development](https://github.com/abeerration/Go-Web-Development) | - | - |
-| 4. | [Full Stack Development with TypeScript, React, Next.js, MongoDB](https://github.com/abeerration/Full-Stack-Development-with-TRNM) | - | - |
 | - | [Microservices with Python, Flask, FastAPI & OpenAPI]() | - | - |
 | - | [Vue & JS Tutorial]() | - | - |
 | - | [Node & OnsenUI Tutorial]() | - | - |
