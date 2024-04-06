@@ -33,6 +33,7 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 
 ## Courses
 
+<!--
 | # | Course | Started | Completed |
 | ----------- | ----------- | ----------- | ----------- |
 | **1.** | [Web Design & Development Bootcamp](https://github.com/abeerration/Web-Design-Development-Bootcamp) | - | - |
@@ -47,3 +48,4 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 | - | Data Structures & Algorithms | - | - |
 | - | Discrete & CS Mathematics | - | - |
 | - | Assembly Language | - | - |
+-->
