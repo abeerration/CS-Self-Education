@@ -17,9 +17,9 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 
 | # | Course | Started | Completed |
 | ----------- | ----------- | ----------- | ----------- |
-| **1.** | [Full Stack Development with TypeScript, React, Next.js, MongoDB](https://github.com/abeerration/Full-Stack-Development-with-TRNM) | 13 Apr 2024 | **Ongoing** |
 
 <!--
+| **1.** | [Full Stack Development with TypeScript, React, Next.js, MongoDB](https://github.com/abeerration/Full-Stack-Development-with-TRNM) | 13 Apr 2024 | **Ongoing** |
 | **1.** | [Web Design & Development Bootcamp](https://github.com/abeerration/Web-Design-Development-Bootcamp) | - | - |
 | **2.** | [Introduction to Computer Science & AI with Python](https://github.com/abeerration/Intro-CS-AI-Python) | - | - |
 | **3.** | [Mathematics Foundations for CS]() | - | - |
