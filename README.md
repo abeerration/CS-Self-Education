@@ -17,7 +17,7 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 
 | # | Course | Started | Completed |
 | ----------- | ----------- | ----------- | ----------- |
-| **1.** | [Flutter Development]https://github.com/abeerration/Flutter-Development | ... | ... |
+| **1.** | [Flutter Development]((https://github.com/abeerration/Flutter-Development)) | ... | ... |
 
 <!--
 | **1.** | [Full Stack Development with TypeScript, React, Next.js, MongoDB](https://github.com/abeerration/Full-Stack-Development-with-TRNM) | - | **Ongoing** |
