@@ -40,8 +40,8 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 | # | Tutorial | Started | Completed |
 | ----------- | ----------- | ----------- | ----------- |
 | **1.** | [Coding Tutorial – Module 1](https://github.com/abeerration/Coding-Tutorial-Module-1) | 22 Nov 2023 | 29 Nov 2023 |
-| **2.** | [JavaScript Node Express MongoDB Tutorial](https://github.com/abeerration/JavaScript-Node-Express-MongoDB-Tutorial) | 4 Oct 2024 | **Ongoing** |
-| **3.** | [Coding Tutorial – Module 2]((https://github.com/abeerration/Coding-Tutorial-Module-2)) | | |
+| **2.** | [Coding Tutorial – Module 2]((https://github.com/abeerration/Coding-Tutorial-Module-2)) | | |
+| **3.** | [JavaScript Node Express MongoDB Tutorial]((https://github.com/abeerration/JavaScript-Node-Express-MongoDB-Tutorial)) | | |
 
 <!--
 | - | [JS Node Express MongoDB Tutorial](https://github.com/abeerration/JS-Node-Express-MongoDB-Tutorial) | - | - |
