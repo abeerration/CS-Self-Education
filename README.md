@@ -15,7 +15,7 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 
 ## Courses
 
-| # | Course | Started | Completed |
+| # | Course | Date / Duration | Status |
 | ----------- | ----------- | ----------- | ----------- |
 | **1.** | [Flutter Development]((https://github.com/abeerration/Flutter-Development)) | | |
 
