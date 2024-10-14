@@ -39,7 +39,7 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 
 | # | Tutorial | Date / Duration | Status |
 | ----------- | ----------- | ----------- | ----------- |
-| **1.** | [Coding Tutorial – Module 1](https://github.com/abeerration/Coding-Tutorial-Module-1) | 22 Nov 2023 - 29 Nov 2023 | Completed
+| **1.** | [Coding Tutorial – Module 1](https://github.com/abeerration/Coding-Tutorial-Module-1) | 22 Nov 2023 – 29 Nov 2023 | Completed
 | **2.** | [Coding Tutorial – Module 2]((https://github.com/abeerration/Coding-Tutorial-Module-2)) | | |
 | **3.** | [JavaScript Node Express MongoDB Tutorial]((https://github.com/abeerration/JavaScript-Node-Express-MongoDB-Tutorial)) | | |
 
