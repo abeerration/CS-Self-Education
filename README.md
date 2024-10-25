@@ -41,6 +41,7 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 
 | # | Tutorial | Date / Duration | Status |
 | ----------- | ----------- | ----------- | ----------- |
+| **1.** | [Next.js Development](https://github.com/abeerration/Next.js Development) | 25 Oct 2024 - | **Ongoing** b|
 
 <!--
 | **1.** | [Coding Tutorial – Module 1](https://github.com/abeerration/Coding-Tutorial-Module-1) | 22 Nov 2023 – 29 Nov 2023 | Completed
