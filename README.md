@@ -17,7 +17,9 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 
 | # | Course | Date / Duration | Status |
 | ----------- | ----------- | ----------- | ----------- |
+<!--
 | **1.** | [Flutter Development]((https://github.com/abeerration/Flutter-Development)) | | |
+-->
 
 <!--
 | **1.** | [Full Stack Development with TypeScript, React, Next.js, MongoDB](https://github.com/abeerration/Full-Stack-Development-with-TRNM) | - | **Ongoing** |
@@ -39,9 +41,12 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 
 | # | Tutorial | Date / Duration | Status |
 | ----------- | ----------- | ----------- | ----------- |
+
+<!--
 | **1.** | [Coding Tutorial – Module 1](https://github.com/abeerration/Coding-Tutorial-Module-1) | 22 Nov 2023 – 29 Nov 2023 | Completed
 | **2.** | [Coding Tutorial – Module 2]((https://github.com/abeerration/Coding-Tutorial-Module-2)) | | |
 | **3.** | [JavaScript Node Express MongoDB Tutorial]((https://github.com/abeerration/JavaScript-Node-Express-MongoDB-Tutorial)) | | |
+-->
 
 <!--
 | - | [JS Node Express MongoDB Tutorial](https://github.com/abeerration/JS-Node-Express-MongoDB-Tutorial) | - | - |
