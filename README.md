@@ -43,8 +43,12 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 | ----------- | ----------- | ----------- | ----------- |
 | **1.** | [Coding Tutorial – Module 1](https://github.com/abeerration/Coding-Tutorial-Module-1) | <code>22 Nov 2023 &mdash; 29 Nov 2023</code> | Completed
 | **2.** | [Coding Tutorial – Module 2](https://github.com/abeerration/Coding-Tutorial-Module-2) | <code>dd Mmm YYYY &mdash; dd Mmm YYYY</code> | |
+| **3.** | Django for Beginners](https://github.com/abeerration/Django-for-Beginners?tab=readme-ov-file) | <code>dd Mmm YYYY &mdash; dd Mmm YYYY</code> | |
+
+<!--
 | **3.** | [JavaScript Node Express MongoDB Tutorial](https://github.com/abeerration/JavaScript-Node-Express-MongoDB-Tutorial) | <code>dd Mmm YYYY &mdash; dd Mmm YYYY</code> | |
 | **4.** | [Full Stack MERN](https://github.com/abeerration/Full-Stack-MERN) | <code>dd Mmm YYYY &mdash; dd Mmm YYYY</code> | |
+-->
 
 <!-- | **5.** | [Next.js Development](https://github.com/abeerration/Next.js-Development) | <code>dd Mmm YYYY &mdash; dd Mmm YYYY</code> | | -->
 
