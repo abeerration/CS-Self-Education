@@ -8,8 +8,8 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 
 ---
 
-- [**Courses**](https://github.com/abeerration/CS-Self-Education#courses) (longer/broader with more background and theory)
-- [**Tutorials**](https://github.com/abeerration/CS-Self-Education#tutorials) (more specific and 'hands-on')
+- [**Courses**](https://github.com/abeerration/CS-Self-Education#courses) – longer/broader with more background and theory
+- [**Tutorials**](https://github.com/abeerration/CS-Self-Education#tutorials) – more specific and 'hands-on'
 
 ---
 
