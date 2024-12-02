@@ -18,14 +18,14 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 | # | Course | Date / Duration | Status |
 | ----------- | ----------- | ----------- | ----------- |
 <!--
-| **1.** | [Flutter Development]((https://github.com/abeerration/Flutter-Development)) | | |
+| **1** | [Flutter Development]((https://github.com/abeerration/Flutter-Development)) | | |
 -->
 
 <!--
-| **1.** | [Full Stack Development with TypeScript, React, Next.js, MongoDB](https://github.com/abeerration/Full-Stack-Development-with-TRNM) | - | **Ongoing** |
-| **1.** | [Web Design & Development Bootcamp](https://github.com/abeerration/Web-Design-Development-Bootcamp) | - | - |
-| **2.** | [Introduction to Computer Science & AI with Python](https://github.com/abeerration/Intro-CS-AI-Python) | - | - |
-| **3.** | [Mathematics Foundations for CS]() | - | - |
+| **1** | [Full Stack Development with TypeScript, React, Next.js, MongoDB](https://github.com/abeerration/Full-Stack-Development-with-TRNM) | - | **Ongoing** |
+| **1** | [Web Design & Development Bootcamp](https://github.com/abeerration/Web-Design-Development-Bootcamp) | - | - |
+| **2** | [Introduction to Computer Science & AI with Python](https://github.com/abeerration/Intro-CS-AI-Python) | - | - |
+| **3** | [Mathematics Foundations for CS]() | - | - |
 | - | English Composition | - | - |
 | - | Object Oriented Programming: Java, Ruby & Smalltalk | - | - |
 | - | Computing with Lisp | - | - |
@@ -46,11 +46,11 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 | **2** | [Django for Beginners](https://github.com/abeerration/Django-for-Beginners?tab=readme-ov-file) | <code>02 Dec 2024 &mdash; dd Mmm YYYY</code> | **Ongoing** |
 
 <!--
-| **3.** | [JavaScript Node Express MongoDB Tutorial](https://github.com/abeerration/JavaScript-Node-Express-MongoDB-Tutorial) | <code>dd Mmm YYYY &mdash; dd Mmm YYYY</code> | |
-| **4.** | [Full Stack MERN](https://github.com/abeerration/Full-Stack-MERN) | <code>dd Mmm YYYY &mdash; dd Mmm YYYY</code> | |
+| **3** | [JavaScript Node Express MongoDB Tutorial](https://github.com/abeerration/JavaScript-Node-Express-MongoDB-Tutorial) | <code>dd Mmm YYYY &mdash; dd Mmm YYYY</code> | |
+| **4** | [Full Stack MERN](https://github.com/abeerration/Full-Stack-MERN) | <code>dd Mmm YYYY &mdash; dd Mmm YYYY</code> | |
 -->
 
-<!-- | **5.** | [Next.js Development](https://github.com/abeerration/Next.js-Development) | <code>dd Mmm YYYY &mdash; dd Mmm YYYY</code> | | -->
+<!-- | **5** | [Next.js Development](https://github.com/abeerration/Next.js-Development) | <code>dd Mmm YYYY &mdash; dd Mmm YYYY</code> | | -->
 
 <!--
 | - | [JS Node Express MongoDB Tutorial](https://github.com/abeerration/JS-Node-Express-MongoDB-Tutorial) | - | - |
