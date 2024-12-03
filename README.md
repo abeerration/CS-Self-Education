@@ -43,7 +43,7 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 | ----------- | ----------- | ----------- | ----------- |
 | **1 a** | [Coding Tutorial – Module 1](https://github.com/abeerration/Coding-Tutorial-Module-1) | <code>22 Nov 2023 &mdash; 29 Nov 2023</code> | Completed
 | **1 b** | [Coding Tutorial – Module 2](https://github.com/abeerration/Coding-Tutorial-Module-2) | <code>dd Mmm YYYY &mdash; dd Mmm YYYY</code> |  |
-| **2** | [Django for Beginners](https://github.com/abeerration/Django-for-Beginners?tab=readme-ov-file) | <code>dd Mmm YYYY &mdash; dd Mmm YYYY</code> | **Ongoing** |
+| **2** | [Django for Beginners](https://github.com/abeerration/Django-for-Beginners?tab=readme-ov-file) | <code>03 Dec 2024 &mdash; dd Mmm YYYY</code> | **Ongoing** |
 
 <!--
 | **3** | [JavaScript Node Express MongoDB Tutorial](https://github.com/abeerration/JavaScript-Node-Express-MongoDB-Tutorial) | <code>dd Mmm YYYY &mdash; dd Mmm YYYY</code> | |
